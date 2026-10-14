@@ -1,0 +1,9 @@
+# Do not commit secrets, credentials, or temporary editor files
+.env
+*.token
+*.pem
+*.key
+*~
+*.swp
+.DS_Store
+Thumbs.db

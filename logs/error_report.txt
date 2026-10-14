@@ -1,0 +1,5 @@
+2026-10-14 08:03:41 ERROR user01 failed authentication
+2026-10-14 08:07:30 ERROR service backup failed
+2026-10-14 08:11:16 ERROR root could not access a test resource
+2026-10-14 08:15:56 ERROR service web failed to start
+2026-10-14 08:19:47 ERROR user01 permission check failed

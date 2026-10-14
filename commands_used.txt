@@ -1,0 +1,24 @@
+LINUX TASK 03 — COMMAND LOG
+===========================
+
+Record the exact commands you actually execute during the lab.
+Do not claim a command was run unless you ran it.
+Do not include passwords, access tokens, or other secrets.
+
+Date:
+Linux distribution / VM:
+Notes:
+
+--- Part 1: forensic01 user setup ---
+
+
+--- Part 2: log filtering and analysis ---
+
+
+--- Part 3: permissions and ownership ---
+
+
+--- Part 4: guest user management ---
+
+
+--- Git Bash / GitHub commands ---
